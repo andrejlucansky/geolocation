@@ -1,0 +1,7 @@
+{
+    "orgName": "DX Trailhead",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
